@@ -1,0 +1,8 @@
+Language=Taal
+Username=Gebruikersnaam
+Login=Login
+Logout=Logout
+CurrentUser=Ingelogd als:
+Message=Bericht:
+Question:Vraag
+Send:Sturen

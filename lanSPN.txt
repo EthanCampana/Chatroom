@@ -1,0 +1,8 @@
+Language=Idioma
+Username=Nombre de usuario
+Login=Iniciar sesión
+Logout=Cerrar sesión
+CurrentUser=Conectado como:
+Message=Mensaje:
+Question:Pregunta
+Send:Enviar

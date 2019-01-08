@@ -1,0 +1,8 @@
+Language=Language
+Username=Username
+Login=Login
+Logout=Logout
+CurrentUser=Logged in as:
+Message=Message:
+Question:Question
+Send:Send
